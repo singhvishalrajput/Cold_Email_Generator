@@ -1,6 +1,6 @@
 # Cold Email Generator
 
-A powerful web application designed to automate personalized cold email generation. Using LangChain and Python with a React frontend, this tool scrapes job information from career pages and matches job requirements with your portfolio. It generates tailored cold emails, helping users make impactful first impressions.
+A simple web application designed to automate personalized cold email generation. Using LangChain and Python with a React frontend, this tool scrapes job information from career pages and matches job requirements with your portfolio. It generates tailored cold emails, helping users make impactful first impressions.
 
 ![Project Screenshot](assets/website_image.png)
 
